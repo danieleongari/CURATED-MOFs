@@ -14,4 +14,9 @@ VEJYUF,ZIF-4,Raspa,orthorombic,,"H,C,N,Zn",,first synthesis in 2006
 VELVOY,ZIF-8,Raspa,cubic,,"H,C,N,Zn",,first synthesis in 2006
 RUPRUQ,MIL-125,dft-opt,tetragonal_ab,,"H,C,O,Ti",,first synthesis in 2009
 RUBTAK,UIO-66,CoRE,rhombohedral,,"H,C,O,Zr",added 4 H to have neutrality,first synthesis 2008
-FIFFUX,NU-1000,unknown,monoclinic_gamma_ab,,"H,C,O,Zr",,"first synthesized in 2013, protonation state mixS1 most stable from 10.1021/jz501899j"
+FIFFUX,NU-1000,manual,monoclinic_gamma_ab,,"H,C,O,Zr",,"first synthesized in 2013, protonation state mixS1 most stable from 10.1021/jz501899j"
+KAXQIL,SBMOF-1,CoRE,triclinic,,"H,C,O,S,Ca",,found as a good material for Xe/Kr separation 10.1038/ncomms11831
+ANUGIA,UMCM-152,CoRE,rhombohedral,,"H,C,O,Cu",,found as a good material for O2 volumetric storage 10.1038/s41467-018-03892-8
+XITYOP,PCN-14,CoRE,triclinic,,"H,C,O,Cu",,good material for CH4 volumetric storage
+ZOJWAY,UTSA-80,tofix,,,"H,C,O,Cu",,extended PCN-14 with improved CH4 volumetric storage
+UTEWOG,Ni3(BTP)3,CoRE,cubic,,"H,C,N,Ni",,good material for warfare agents capture in humid conditions 10.1021/acs.chemmater.8b00843
