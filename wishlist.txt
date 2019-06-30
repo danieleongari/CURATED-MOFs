@@ -1,5 +1,9 @@
+# To consider
+
 - extended mof-74
 - extended mof-5 (be carefull about interpenetration)
 - nh2-mil-125
 - umcm1
 
+# Discarded
+- NU-800, extended UIO-66 found from hypothetical screening in 10.1021/cm502304e, but not reported in the CSD
