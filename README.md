@@ -5,6 +5,7 @@
 * in our group we worked a lot with it
 * the MOF has been found from computational screening for a specific applicatation, and its good performance confirmed from experiments. 
 Consider adding a few words about the choice, in the `notes` column of `mof-frameworks.csv`
+* elegant + porous + stable
 
 ## Which CSD refcode?
 The CSD refcode is not mandatory to be the origin of the cif structure, because there may be better reference (e.g., one where some problems have already been fixed). 
