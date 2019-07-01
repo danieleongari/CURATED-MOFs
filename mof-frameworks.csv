@@ -23,3 +23,4 @@ UTEWOG,Ni3(BTP)3,CoRE,cubic,,"H,C,N,Ni",,good material for warfare agents captur
 KISXIU,UMCM-1,dft-opt w/exp cell,monoclinic_gamma_ab,,"H,C,O,Zn",,stable and large channels
 ZIGFEC,Cr3(BTC)2,FIQCEN ,rhombohedral,,"H,C,O,Cr",substituted metal,clean analog of HKUST-1
 XUPSAE,NOTT-300,CSD,tetragonal_ab,,"H,C,O,Al",desolvated,"elegant, stable"
+DOYBEA,Aluminum fumarate,CSD,monoclinic_gamma_ab,"MIL-53(Al)-FA, BasoliteA250","H, C, O, Al ",desolvated,one of the MOFs that is produced on an industrial scale (10.1016/j.micromeso.2011.08.016)  Structure reported in 10.1002/anie.201410459. 
