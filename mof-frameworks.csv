@@ -1,5 +1,5 @@
 CSD refcode,name,source,cell symmetry,alternative names,elements,modifications,notes
-FIQCEN,HKUST-1,CoRE,rhombohedral,"CuBTC,Cu3BTC2","H,C,O,Cu",,first synthesis in 1999
+FIQCEN,HKUST-1,CoRE,rhombohedral,"CuBTC,Cu3(BTC)2,MOF-199,BASF BASOLITE C-300","H,C,O,Cu",,first synthesis in 1999
 SAHYIK,MOF-5,CSD,rhombohedral,IRMOF-1,"H,C,O,Zn",reduced to primitive,first synthesis in 1999
 NAVJAW,Co-MOF-74,CoRE,triclinic,"CPO-27,CoDOBDC","H,C,O,Co",,first synthesis in 2005
 VOGTIV,Mg-MOF-74,NAVJAW,triclinic,,"H,C,O,Mg",substituted metal,first synthesis in 2007
@@ -11,7 +11,7 @@ ORIVOC,Zn-MOF-74,NAVJAW,triclinic,,"H,C,O,Zn",substituted metal,
 OLEYAH,UTSA-74,CSD,rhombohedral,,"H,C,O,Zn",reduced to primitive,"isomer of Zn-MOF-75, first synthesis 2016"
 SENSAI,BUT-155,CSD,tetragonal_ab,,"H,C,O,Cu",fixed symmetry methyls,super-stable Cu paddlewheel  
 VEJYUF,ZIF-4,Raspa,orthorombic,,"H,C,N,Zn",,first synthesis in 2006
-VELVOY,ZIF-8,Raspa,cubic,,"H,C,N,Zn",,first synthesis in 2006
+VELVOY,ZIF-8,Raspa,cubic,BASF BASOLITE Z1200,"H,C,N,Zn",,first synthesis in 2006
 RUPRUQ,MIL-125,dft-opt,tetragonal_ab,,"H,C,O,Ti",,first synthesis in 2009
 RUBTAK,UIO-66,CoRE,rhombohedral,,"H,C,O,Zr",added 4 H to have neutrality,first synthesis 2008
 FIFFUX,NU-1000,manual,monoclinic_gamma_ab,,"H,C,O,Zr",,"first synthesized in 2013, protonation state mixS1 most stable from 10.1021/jz501899j"
@@ -20,3 +20,6 @@ ANUGIA,UMCM-152,CoRE,rhombohedral,,"H,C,O,Cu",,found as a good material for O2 v
 XITYOP,PCN-14,CoRE,triclinic,,"H,C,O,Cu",,good material for CH4 volumetric storage
 ZOJWAY,UTSA-80,tofix,,,"H,C,O,Cu",,extended PCN-14 with improved CH4 volumetric storage
 UTEWOG,Ni3(BTP)3,CoRE,cubic,,"H,C,N,Ni",,good material for warfare agents capture in humid conditions 10.1021/acs.chemmater.8b00843
+KISXIU,UMCM-1,dft-opt w/exp cell,monoclinic_gamma_ab,,"H,C,O,Zn",,stable and large channels
+ZIGFEC,Cr3(BTC)2,FIQCEN ,rhombohedral,,"H,C,O,Cr",substituted metal,clean analog of HKUST-1
+XUPSAE,NOTT-300,CSD,tetragonal_ab,,"H,C,O,Al",desolvated,"elegant, stable"
