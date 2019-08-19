@@ -18,8 +18,11 @@ FIFFUX,NU-1000,manual,monoclinic_gamma_ab,,"H,C,O,Zr",,"first synthesized in 201
 KAXQIL,SBMOF-1,CoRE,triclinic,,"H,C,O,S,Ca",,found as a good material for Xe/Kr separation 10.1038/ncomms11831
 ANUGIA,UMCM-152,CoRE,rhombohedral,,"H,C,O,Cu",,found as a good material for O2 volumetric storage 10.1038/s41467-018-03892-8
 XITYOP,PCN-14,CoRE,triclinic,,"H,C,O,Cu",,good material for CH4 volumetric storage
-ZOJWAY,UTSA-80,tofix,,,"H,C,O,Cu",,extended PCN-14 with improved CH4 volumetric storage
+ZOJWAY,UTSA-80,CSD,monoclinic_gamma_ab,,"H,C,O,Cu","desolvated, removed disorder",extended PCN-14 with improved CH4 volumetric storage
 UTEWOG,Ni3(BTP)3,CoRE,cubic,,"H,C,N,Ni",,good material for warfare agents capture in humid conditions 10.1021/acs.chemmater.8b00843
 KISXIU,UMCM-1,dft-opt w/exp cell,monoclinic_gamma_ab,,"H,C,O,Zn",,stable and large channels
 ZIGFEC,Cr3(BTC)2,FIQCEN ,rhombohedral,,"H,C,O,Cr",substituted metal,clean analog of HKUST-1
 XUPSAE,NOTT-300,CSD,tetragonal_ab,,"H,C,O,Al",desolvated,"elegant, stable"
+VEBHUG,IRMOF-20,CoRE,rhombohedral,,"H,C,O,S,Zn","included S in the rings, randomly",found as good material for H2 storage 10.1038/s41467-019-09365-w
+HABQUY,PCN-610,CoRE,rhombohedral,NU-100,"H,C,O,Cu",shifted 0.5x0.5x0.5,found as good material for H2 storage 10.1038/s41467-019-09365-w
+GEBPEK,SNU-70,MOF-5_cooh_2_567_opt (10.1021/jp401920y),triclinic,,"H,C,O,Zn",,found as good material for H2 storage 10.1038/s41467-019-09365-w
