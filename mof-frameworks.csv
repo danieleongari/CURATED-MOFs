@@ -35,3 +35,5 @@ SEMNIJ,NU-110E,CSD,cubc,,"H, C, O, Cu",,probably MOF with highest BET area (10.1
 LASYOU,MOF-505,CORE,triclinic,,"H, C,  O, Cu",,
 PITYUN,FMOF-1,CSD,tetragonal_ab,,"C, F, N, Ag",,
 SAPBIW,Bio-MOF-100,CSD,cubic,,"C, H, N, O, Zn",,increase vertex (instead of linker length) to increase pores
+ONIXOZ,UTSA-20,CSD,hexagonal,,"C, H, O, Cu",,
+MEHMET,NU-111,CORE,triclinic,,"C, H, O, Cu",,
