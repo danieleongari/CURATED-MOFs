@@ -35,3 +35,4 @@ PITYUN,FMOF-1,CSD,tetragonal_ab,,"C, F, N, Ag",,archetypal hydrophobic MOFs – 
 ONIXOZ,UTSA-20,CSD,hexagonal,,"C, H, O, Cu",,one of the MOFs that surpassed DOE targets for methane storage (10.1002/anie.201007583) 
 MEHMET,NU-111,CORE,triclinic,,"C, H, O, Cu",,one of the highest methane working capacities found in screenings (10.1016/j.chempr.2016.09.009) 
 EXEQII,NOTT-400,CSD,tetragonal_ab,,"C, H, O, Sc",,one of the best materials identified in computational screening (10.1021/acs.chemmater.6b04933) 
+BOHWIG,MOF-841,CSD,triclinic,,"C, H, O, Zr","removed solvent, fixed protonation ",one of the most promising materials for water adsorption (10.1021/ja500330a) 
