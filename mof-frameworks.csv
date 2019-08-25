@@ -27,11 +27,12 @@ VEBHUG,IRMOF-20,CoRE,rhombohedral,,"H,C,O,S,Zn","included S in the rings, random
 HABQUY,PCN-610,CoRE,rhombohedral,NU-100,"H,C,O,Cu",shifted 0.5x0.5x0.5,found as good material for H2 storage 10.1038/s41467-019-09365-w
 GEBPEK,SNU-70,MOF-5_cooh_2_567_opt (10.1021/jp401920y),triclinic,,"H,C,O,Zn",,found as good material for H2 storage 10.1038/s41467-019-09365-w
 DOYBEA,Aluminum fumarate,CSD,monoclinic_gamma_ab,"MIL-53(Al)-FA, BasoliteA250","H, C, O, Al ",desolvated,one of the MOFs that is produced on an industrial scale (10.1016/j.micromeso.2011.08.016)  Structure reported in 10.1002/anie.201410459.
-UPOZAB,MFU-4l,CORE,rombohedral,,"H, C, N, Cl, Zn",,Bucior et al. Found it in CSD screening for H2 storage
-FARBIL,MOF-48,CSD,orthorombic,,"H,C,O,V",removed guest molecule,"Gee et al., Xylene enrichment "
+UPOZAB,MFU-4l,CORE,rombohedral,,"H, C, N, Cl, Zn",,Bucior et al.  (10.1039/c8me00050f) found it in CSD screening for H2 storage
+FARBIL,MOF-48,CSD,orthorombic,,"H,C,O,V",removed guest molecule,Gee et al. (10.1021/acs.jpcc.6b03349)  found it in a computational screening for Xylene enrichment 
 BABRII,MOF-177,CSD,rhombohedral,,"H, C, N,  O, Cu",,first MOF with extra-large pores capable of binding polycyclic organic guest molecules (10.1038/nature02311)
-LASYOU,MOF-505,CORE,triclinic,,"H, C,  O, Cu",,
-PITYUN,FMOF-1,CSD,tetragonal_ab,,"C, F, N, Ag",,
-ONIXOZ,UTSA-20,CSD,hexagonal,,"C, H, O, Cu",,
-MEHMET,NU-111,CORE,triclinic,,"C, H, O, Cu",,
-EXEQII,NOTT-400,CSD,tetragonal_ab,,"C, H, O, Sc",,
+LASYOU,MOF-505,CORE,triclinic,,"H, C,  O, Cu",,"Xe/Kr separations simulated (10.1002/aic.12397) , then selectivities of 9-10 in experiments (10.1016/j.micromeso.2012.11.013) "
+PITYUN,FMOF-1,CSD,tetragonal_ab,,"C, F, N, Ag",,archetypal hydrophobic MOFs – enables new application such as for oil spills (10.1021/ja208408n) 
+ONIXOZ,UTSA-20,CSD,hexagonal,,"C, H, O, Cu",,one of the MOFs that surpassed DOE targets for methane storage (10.1002/anie.201007583) 
+MEHMET,NU-111,CORE,triclinic,,"C, H, O, Cu",,one of the highest methane working capacities found in screenings (10.1016/j.chempr.2016.09.009) 
+EXEQII,NOTT-400,CSD,tetragonal_ab,,"C, H, O, Sc",,one of the best materials identified in computational screening (10.1021/acs.chemmater.6b04933) 
+BOHWIG,MOF-841,CSD,triclinic,,"C, H, O, Zr","removed solvent, fixed protonation ",one of the most promising materials for water adsorption (10.1021/ja500330a) 
