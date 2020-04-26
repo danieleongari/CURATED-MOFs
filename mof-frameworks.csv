@@ -36,3 +36,4 @@ ONIXOZ,UTSA-20,10.1002/anie.201007583,CSD,hexagonal,,"C, H, O, Cu",,one of the M
 MEHMET,NU-111,10.1021/ja302623w,CORE,triclinic,,"C, H, O, Cu",,one of the highest methane working capacities found in screenings (10.1016/j.chempr.2016.09.009)
 EXEQII,NOTT-400,10.1039/c1cc11168j,CSD,tetragonal_ab,,"C, H, O, Sc",added H to OH,one of the best materials identified in computational screening (10.1021/acs.chemmater.6b04933)
 BOHWIG,MOF-841,10.1021/ja500330a,CSD,triclinic,,"C, H, O, Zr","removed solvent, fixed protonation ",one of the most promising materials for water adsorption (10.1021/ja500330a)
+HUHZAO,NU-1501-Al,10.1126/science.aaz8881,CSD,,,"C, H, O, Al","Fix rings’ disorder, add hydrogens to coordinated solvent","Good material for H2 and CH4 storage, found from a screening of analogs from NU-1500"
