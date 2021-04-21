@@ -1,45 +1,102 @@
-CSD refcode,name,DOI,source,cell symmetry,alternative names,elements,modifications,notes
-FIQCEN,HKUST-1,10.1126/science.283.5405.1148,CoRE,rhombohedral,"CuBTC,Cu3(BTC)2,MOF-199,BASF BASOLITE C-300","H,C,O,Cu",,first synthesis in 1999
-SAHYIK,MOF-5,10.1038/46248,CSD,rhombohedral,IRMOF-1,"H,C,O,Zn",reduced to primitive,first synthesis in 1999
-NAVJAW,Co-MOF-74,10.1002/anie.200501508,CoRE,triclinic,"CPO-27,CoDOBDC","H,C,O,Co",,first synthesis in 2005
-VOGTIV,Mg-MOF-74,10.1002/ejic.200701284,NAVJAW,triclinic,,"H,C,O,Mg",substituted metal,first synthesis in 2007
-ORIWET,Mn-MOF-74,10.1017/S0885715612000863,NAVJAW,triclinic,,"H,C,O,Mn",substituted metal,
-WOQVAB,Fe-MOF-74,10.1016/j.micromeso.2011.12.035,NAVJAW,triclinic,,"H,C,O,Fe",substituted metal,
-ORIVUI,Ni-MOF-74,10.1017/S0885715612000863,NAVJAW,triclinic,,"H,C,O,Ni",substituted metal,
-COKNIB,Cu-MOF-74,10.1039/C4SC02064B,NAVJAW,triclinic,,"H,C,O,Cu",substituted metal,
-ORIVOC,Zn-MOF-74,10.1017/S0885715612000863,NAVJAW,triclinic,,"H,C,O,Zn",substituted metal,
-OLEYAH,UTSA-74,10.1021/jacs.6b02030,CSD,rhombohedral,,"H,C,O,Zn",reduced to primitive,"isomer of Zn-MOF-75, first synthesis 2016"
-SENSAI,BUT-155,10.1021/acsami.7b07920,CSD,tetragonal_ab,,"H,C,O,Cu",fixed symmetry methyls,super-stable Cu paddlewheel
-VEJYUF,ZIF-4,10.1073/pnas.0602439103,Raspa,orthorombic,,"H,C,N,Zn",,first synthesis in 2006
-VELVOY,ZIF-8,10.1073/pnas.0602439103,Raspa,cubic,BASF BASOLITE Z1200,"H,C,N,Zn",,first synthesis in 2006
-RUPRUQ,MIL-125,10.1021/ja903726m,dft-opt,tetragonal_ab,,"H,C,O,Ti",,first synthesis in 2009
-RUBTAK,UIO-66,10.1021/ja8057953,CoRE,rhombohedral,,"H,C,O,Zr",added 4 H to have neutrality,first synthesis 2008
-FIFFUX,NU-1000,10.1021/ja4050828,manual,monoclinic_gamma_ab,,"H,C,O,Zr",,"first synthesized in 2013, protonation state mixS1 most stable from 10.1021/jz501899j"
-KAXQIL,SBMOF-1,10.1021/cg300274n,CoRE,triclinic,,"H,C,O,S,Ca",,found as a good material for Xe/Kr separation 10.1038/ncomms11831
-ANUGIA,UMCM-152,10.1021/ja107423k,CoRE,rhombohedral,,"H,C,O,Cu",,found as a good material for O2 volumetric storage 10.1038/s41467-018-03892-8
-XITYOP,PCN-14,10.1021/ja0771639,CoRE,triclinic,,"H,C,O,Cu",,good material for CH4 volumetric storage
-ZOJWAY,UTSA-80,10.1039/C4TA01860E,CSD,monoclinic_gamma_ab,,"H,C,O,Cu","desolvated, removed disorder",extended PCN-14 with improved CH4 volumetric storage
-UTEWOG,Ni3(BTP)2,10.1039/c1sc00136a,CoRE,cubic,,"H,C,N,Ni",,good material for warfare agents capture in humid conditions 10.1021/acs.chemmater.8b00843
-KISXIU,UMCM-1,10.1002/anie.200705020,dft-opt w/exp cell,monoclinic_gamma_ab,,"H,C,O,Zn",,stable and large channels
-ZIGFEC,Cr3(BTC)2,10.1021/ja1027925,FIQCEN ,rhombohedral,,"H,C,O,Cr",substituted metal,clean analog of HKUST-1
-XUPSAE,NOTT-300,10.1038/nchem.2114,CSD,tetragonal_ab,,"H,C,O,Al",desolvated,"elegant, stable"
-VEBHUG,IRMOF-20,10.1021/ja056639q,CoRE,rhombohedral,,"H,C,O,S,Zn","included S in the rings, randomly",found as good material for H2 storage 10.1038/s41467-019-09365-w
-HABQUY,PCN-610,10.1002/anie.201001009,CoRE,rhombohedral,NU-100,"H,C,O,Cu",shifted 0.5x0.5x0.5,found as good material for H2 storage 10.1038/s41467-019-09365-w
-GEBPEK,SNU-70,10.1002/chem.201200456,MOF-5_cooh_2_567_opt (10.1021/jp401920y),triclinic,,"H,C,O,Zn",,found as good material for H2 storage 10.1038/s41467-019-09365-w
-DOYBEA,Aluminum fumarate,10.1002/anie.201410459,CSD,monoclinic_gamma_ab,"MIL-53(Al)-FA, BasoliteA250","H, C, O, Al ",desolvated,one of the MOFs that is produced on an industrial scale (10.1016/j.micromeso.2011.08.016)  Structure reported in 10.1002/anie.201410459.
-UPOZAB,MFU-4l,10.1002/chem.201001872,CORE,rombohedral,,"H, C, N, Cl, Zn",,Bucior et al.  (10.1039/c8me00050f) found it in CSD screening for H2 storage
-FARBIL,MOF-48,10.1021/ic201396m,CSD,orthorombic,,"H,C,O,V",removed guest molecule,Gee et al. (10.1021/acs.jpcc.6b03349)  found it in a computational screening for Xylene enrichment
-BABRII,MOF-177,10.1021/jacs.5b10796,CSD,rhombohedral,,"H, C, N,  O, Cu",,first MOF with extra-large pores capable of binding polycyclic organic guest molecules (10.1038/nature02311)
-LASYOU,MOF-505,10.1002/anie.200462787,CORE,triclinic,,"H, C,  O, Cu",,"Xe/Kr separations simulated (10.1002/aic.12397) , then selectivities of 9-10 in experiments (10.1016/j.micromeso.2012.11.013)"
-PITYUN,FMOF-1,10.1021/ja0775265,CSD,tetragonal_ab,,"C, F, N, Ag",,archetypal hydrophobic MOFs – enables new application such as for oil spills (10.1021/ja208408n)
-ONIXOZ,UTSA-20,10.1002/anie.201007583,CSD,hexagonal,,"C, H, O, Cu",,one of the MOFs that surpassed DOE targets for methane storage (10.1002/anie.201007583)
-MEHMET,NU-111,10.1021/ja302623w,CORE,triclinic,,"C, H, O, Cu",,one of the highest methane working capacities found in screenings (10.1016/j.chempr.2016.09.009)
-EXEQII,NOTT-400,10.1039/c1cc11168j,CSD,tetragonal_ab,,"C, H, O, Sc",added H to OH,one of the best materials identified in computational screening (10.1021/acs.chemmater.6b04933)
-BOHWIG,MOF-841,10.1021/ja500330a,CSD,triclinic,,"C, H, O, Zr","removed solvent, fixed protonation ",one of the most promising materials for water adsorption (10.1021/ja500330a)
-HUHZAO,NU-1501-Al,10.1126/science.aaz8881,CSD,,,"C, H, O, Al","Fix rings’ disorder, add hydrogens to coordinated solvent","Good material for H2 and CH4 storage, found from a screening of analogs from NU-1500"
-FUNBOG,fungob,10.5517/cct33mm,CORE,,,,,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
-HAFTOZ,haftoz,10.1039/c1cc14594k,CORE,,,,,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
-RUVKAV,CuBDDC,10.1021/cg100046j,CORE,,,,,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
-XEBHOC,CuTCPPDA,10.1039/b505664k,CORE,,,,,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
-YUGLES,CuEBTC,10.1039/B917046D,CORE,,,,,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
-
+CSD refcode,name,DOI,source,has_oms,coodinated_molecules,alternative names,elements,modifications,notes
+FIQCEN,HKUST-1,10.1126/science.283.5405.1148,CoRE,TRUE,,"CuBTC,Cu3(BTC)2,MOF-199,BASF BASOLITE C-300","H,C,O,Cu",,first synthesis in 1999
+SAHYIK,MOF-5,10.1038/46248,CSD,FALSE,,IRMOF-1,"H,C,O,Zn",reduced to primitive,first synthesis in 1999
+NAVJAW,Co-MOF-74,10.1002/anie.200501508,CoRE,TRUE,,"CPO-27,CoDOBDC","H,C,O,Co",,first synthesis in 2005
+VOGTIV,Mg-MOF-74,10.1002/ejic.200701284,NAVJAW,TRUE,,,"H,C,O,Mg",substituted metal,first synthesis in 2007
+ORIWET,Mn-MOF-74,10.1017/S0885715612000863,NAVJAW,TRUE,,,"H,C,O,Mn",substituted metal,explore different metal
+WOQVAB,Fe-MOF-74,10.1016/j.micromeso.2011.12.035,NAVJAW,TRUE,,,"H,C,O,Fe",substituted metal,explore different metal
+ORIVUI,Ni-MOF-74,10.1017/S0885715612000863,NAVJAW,TRUE,,,"H,C,O,Ni",substituted metal,explore different metal
+COKNIB,Cu-MOF-74,10.1039/C4SC02064B,NAVJAW,TRUE,,,"H,C,O,Cu",substituted metal,explore different metal
+ORIVOC,Zn-MOF-74,10.1017/S0885715612000863,NAVJAW,TRUE,,,"H,C,O,Zn",substituted metal,explore different metal
+OLEYAH,UTSA-74,10.1021/jacs.6b02030,CSD,,,,"H,C,O,Zn",reduced to primitive,"isomer of Zn-MOF-75, first synthesis 2016"
+SENSAI,BUT-155,10.1021/acsami.7b07920,CSD,,,,"H,C,O,Cu",fixed symmetry methyls,super-stable Cu paddlewheel
+VEJYUF,ZIF-4,10.1073/pnas.0602439103,Raspa,,,,"H,C,N,Zn",,first synthesis in 2006
+VELVOY,ZIF-8,10.1073/pnas.0602439103,Raspa,,,BASF BASOLITE Z1200,"H,C,N,Zn",,first synthesis in 2006
+RUPRUQ,MIL-125,10.1021/ja903726m,dft-opt,,,,"H,C,O,Ti",,first synthesis in 2009
+RUBTAK,UIO-66,10.1021/ja8057953,CoRE,,,,"H,C,O,Zr",added 4 H to have neutrality,first synthesis 2008
+FIFFUX,NU-1000,10.1021/ja4050828,manual,,,,"H,C,O,Zr",,"first synthesized in 2013, protonation state mixS1 most stable from 10.1021/jz501899j, pyrene MOF"
+KAXQIL,SBMOF-1,10.1021/cg300274n,CoRE,,,,"H,C,O,S,Ca",,found as a good material for Xe/Kr separation 10.1038/ncomms11831
+ANUGIA,UMCM-152,10.1021/ja107423k,CoRE,,,,"H,C,O,Cu",,found as a good material for O2 volumetric storage 10.1038/s41467-018-03892-8
+XITYOP,PCN-14,10.1021/ja0771639,CoRE,,,,"H,C,O,Cu",,good material for CH4 volumetric storage
+ZOJWAY,UTSA-80,10.1039/C4TA01860E,CSD,,,,"H,C,O,Cu","desolvated, removed disorder",extended PCN-14 with improved CH4 volumetric storage
+UTEWOG,Ni3(BTP)2,10.1039/c1sc00136a,CoRE,,,,"H,C,N,Ni",,good material for warfare agents capture in humid conditions 10.1021/acs.chemmater.8b00843
+KISXIU,UMCM-1,10.1002/anie.200705020,dft-opt w/exp cell,,,,"H,C,O,Zn",,stable and large channels
+ZIGFEC,Cr3(BTC)2,10.1021/ja1027925,FIQCEN ,,,,"H,C,O,Cr",substituted metal,clean analog of HKUST-1
+XUPSAE,NOTT-300,10.1038/nchem.2114,CSD,,,,"H,C,O,Al",desolvated,"elegant, stable"
+VEBHUG,IRMOF-20,10.1021/ja056639q,CoRE,,,,"H,C,O,S,Zn","included S in the rings, randomly",found as good material for H2 storage 10.1038/s41467-019-09365-w
+HABQUY,PCN-610,10.1002/anie.201001009,CoRE,,,NU-100,"H,C,O,Cu",shifted 0.5x0.5x0.5,found as good material for H2 storage 10.1038/s41467-019-09365-w
+GEBPEK,SNU-70,10.1002/chem.201200456,MOF-5_cooh_2_567_opt (10.1021/jp401920y),,,,"H,C,O,Zn",,found as good material for H2 storage 10.1038/s41467-019-09365-w
+DOYBEA,Aluminum fumarate,10.1002/anie.201410459,CSD,,,"MIL-53(Al)-FA, BasoliteA250","H, C, O, Al ",desolvated,one of the MOFs that is produced on an industrial scale (10.1016/j.micromeso.2011.08.016)  Structure reported in 10.1002/anie.201410459.
+UPOZAB,MFU-4l,10.1002/chem.201001872,CORE,,,,"H, C, N, Cl, Zn",,Bucior et al.  (10.1039/c8me00050f) found it in CSD screening for H2 storage
+FARBIL,MOF-48,10.1021/ic201396m,CSD,,,,"H,C,O,V",removed guest molecule,Gee et al. (10.1021/acs.jpcc.6b03349)  found it in a computational screening for Xylene enrichment
+BABRII,MOF-177,10.1021/jacs.5b10796,CSD,,,,"H, C, N,  O, Cu",,first MOF with extra-large pores capable of binding polycyclic organic guest molecules (10.1038/nature02311)
+LASYOU,MOF-505,10.1002/anie.200462787,CORE,,,,"H, C,  O, Cu",,"Xe/Kr separations simulated (10.1002/aic.12397) , then selectivities of 9-10 in experiments (10.1016/j.micromeso.2012.11.013)"
+PITYUN,FMOF-1,10.1021/ja0775265,CSD,,,,"C, F, N, Ag",,archetypal hydrophobic MOFs – enables new application such as for oil spills (10.1021/ja208408n)
+ONIXOZ,UTSA-20,10.1002/anie.201007583,CSD,,,,"C, H, O, Cu",,one of the MOFs that surpassed DOE targets for methane storage (10.1002/anie.201007583)
+MEHMET,NU-111,10.1021/ja302623w,CORE,,,,"C, H, O, Cu",,one of the highest methane working capacities found in screenings (10.1016/j.chempr.2016.09.009)
+EXEQII,NOTT-400,10.1039/c1cc11168j,CSD,,,,"C, H, O, Sc",added H to OH,one of the best materials identified in computational screening (10.1021/acs.chemmater.6b04933)
+BOHWIG,MOF-841,10.1021/ja500330a,CSD,,,,"C, H, O, Zr","removed solvent, fixed protonation ",one of the most promising materials for water adsorption (10.1021/ja500330a)
+HUHZAO,NU-1501-Al,10.1126/science.aaz8881,CSD,,,,"C, H, O, Al","Fix rings’ disorder, add hydrogens to coordinated solvent","Good material for H2 and CH4 storage, found from a screening of analogs from NU-1500"
+FUNBOG,fungob,10.5517/cct33mm,CORE,,,,"H, C, N, O, Zn, Br",,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
+HAFTOZ,haftoz,10.1039/c1cc14594k,CORE,,,,"H, C, N, Ni",,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
+RUVKAV,CuBDDC,10.1021/cg100046j,CORE,,,,"H, C, O, Cu",,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
+XEBHOC,CuTCPPDA,10.1039/b505664k,CORE,,,,"H, C, N, O, Cu",,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
+YUGLES,CuEBTC,10.1039/B917046D,CORE,,,,"H, C, O, Cu",,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
+AJAHID,L8-2BiBr3,10.1039/b902490p,CSD,,,,"H, C, S, Br, Bi",None,pyrene MOF
+BOLZIN,NU-1100,10.1002/chem.201402895,CSD,,,,"H, C, O, Zr","Primitive cell, and Adding H atoms Zr6 cluster ",pyrene MOF
+CODVAU,ROD8,10.1039/C4CE00279B,CSD,,,,"H, C, O, Cd",Half-occupation atoms and free solvent deleted,pyrene MOF
+DOGLIX,SION-19,10.1038/s41467-019-09486-2,CSD,,H2O,,"H, C, N, O, Zn",Half-occupation atoms deleted,pyrene MOF
+DOZKIO,JUC-119,10.1021/ic501560z,CSD,,H2O,,"H, C, O, Eu",Adding H atoms (H2O and COOH groups),pyrene MOF
+EDUVOO,IRMOF-14,10.1126/science.1067208,CSD,,,,"H, C, O, Zn",Deleting free solvent atoms,pyrene MOF
+FIJFUA,MOF-80,10.1021/ja045123o,CSD,,"H2O, DMA",,"H, C, N, O, Tb",,pyrene MOF
+FIZPOV,JUC-118,10.1021/cg401887b,CSD,,"H2O, DMSO",,"H, C, O, S, Zn",,pyrene MOF
+FIZPUB,JUC-118-1,10.1021/cg401887b,CSD,,H2O,,"H, C, O, Zn",,pyrene MOF
+FIZQAI,JUC-118-Cu,10.1021/cg401887b,CSD,,H2O,,"H, C, O, Cu",,pyrene MOF
+FOMJOJ,TBAPy BioMOF - 1,10.1021/acs.inorgchem.9b00873,CSD,,,,"H, C, N, O, Zn",,pyrene MOF
+GEJPAP,{[Dy4(μ-pytet)(μ4-pytet)2(DMF)20(H2O)2]·4DMF·4H2O}n ,10.1039/c7nj02935g,CSD,,DMA ,,"H, C, N, O, S, Dy",,pyrene MOF
+GILFIT,Cd‐TBAPy,10.1002/adma.201803401,CSD,,,,"H, C, O, Cd",,pyrene MOF
+HOFWUX,JXNU-5,10.1021/acs.inorgchem.9b00169,CSD,,H2O,,"H, C, O, Eu",,pyrene MOF
+HOXSUK,NiII‐TBAPy,10.1002/zaac.201400136,CSD,,H2O,,"H, C, O, Ni",,pyrene MOF
+HUDCEQ,NU-505-Zn,10.1021/ic501467w,CSD,,,,"H, C, N, O, Zn",,pyrene MOF
+JAZJOK,Ag4(L3)(Pyr)4(H2O)2 ,10.1021/ic050984z,CSD,,,,"H, C, N, O, S, Ag",,pyrene MOF
+JURKIS,Mn-L,10.1107/S2052252515012506,CSD,,"H2O, DMF",,"H, C, N, O, Mn",,pyrene MOF
+KAMPEW,MIT-26,10.1021/jacs.6b13176,CSD,,H2O,,"H, C, O, Mg",,pyrene MOF
+KATTOR,(Me2NH2)[ZnLi(PTCA)(H2O)]}n·n{3DMF·C4H8O2·4H2O},10.1021/acs.inorgchem.6b02407,CSD,,DMA+,,"H, Li, C, N, O, Zn",,pyrene MOF
+KATTUX,(Me2NH2)[ZnLi(PTCA)]}n·n{3DMF·5H2O},10.1021/acs.inorgchem.6b02407,CSD,,DMA+,,"H, Li, C, N, O, Zn",,pyrene MOF
+KEQJEX,Zn2(TBAPy),10.1021/ja308995t,CSD,,H2O,,"H, C, O, Zn",,pyrene MOF
+KEZGII,(CH3)2NH2]4[(UO2)4(TBAPy)3 - 1,10.1021/acs.inorgchem.8b00099,CSD,,,,"H, C, O, U",,pyrene MOF
+KUJYUM,Co2(TBAPy),10.1016/j.jssc.2020.121252,CSD,,H2O,,"H, C, O, Co",,pyrene MOF
+KUJZAT,Zn2(TBAPy),10.1016/j.jssc.2020.121252,CSD,,H2O,,"H, C, O, Zn",,pyrene MOF
+LEVLEF,[Mg16(PTCA)8(m2-H2O)8(H2O)16(dioxane)8](H2O)13(DMF)26,10.1039/c3cc38730e,CSD,,H2O,,"H, C, O, Mg",,pyrene MOF
+LIKVIN,(Me2NH2)2[Cd(PTC)]·2H2O,10.1021/acs.cgd.8b01234,CSD,,,,"H, C, O, Cd",,"pyrene MOF, need to add counterions"
+LOSBOM,Mg4(L)(DMF)4(H2O)4(DMF)0.5,10.1039/C4RA10835C,CSD,,,,"H, C, N, O, Mg",,pyrene MOF
+LURRUM,"In-TBAPy, ROD-7",10.1021/ja906041f,CSD,,"H2O, DMA",,"H, C, O, In",,pyrene MOF
+MOWNOE,Zn(TBAPy)1/2(H2O)2,10.1021/acs.inorgchem.9b02203,CSD,,H2O,,"H, C, O, Zn",,pyrene MOF
+MUBZUG,Zr6O4(OH)4(L2),10.1002/anie.201406501,CSD,,,,"H, C, O, Zr",,pyrene MOF
+NAHDIM,Zn-PLA,10.1039/C5SC03839A,CSD,,DMA+,,"H, C, N, O, Zn",,pyrene MOF
+NOCMIC,Sr(μ-DMF)(μ-NDC),10.1021/cg700731d,CSD,,DEF,,"H, C, N, O, Sr",,pyrene MOF
+NUHTIW,Cd(PDT)2,10.1039/C9CE00875F,CSD,,,,"H, C, N, S, Cd",,pyrene MOF
+NUHTOC,Cd(PDT)2,10.1039/C9CE00875F,CSD,,,,"H, C, N, S, Cd",,pyrene MOF
+OFUTUH,Ni8(PTCA)4,10.1002/cplu.201600121,CSD,,H2O,,"H, C, O, Ni",,pyrene MOF
+QOTHOY,tdcppy-Co3(μ3-O)(COO)6,10.1039/C4QI00240G,CSD,,H2O,,"H, C, N, O, Co",,pyrene MOF
+RUGSOE,{[Cd(TBAPy)(H2O)2]· 4(H2O)}n,10.1002/zaac.201900231,CSD,,H2O,,"H, C, O, Cd",,pyrene MOF
+SODJUT,SION-7,10.1039/C9SC01422E,CSD,,H2O,,"H, C, O, Mg",,pyrene MOF
+TOZZEQ,Bi-TBAPy,10.1016/S1872-2067(19)63329-2,CSD,,DMA,,"H, C, N, O, Bi",,pyrene MOF
+UNUNEY,"NU-1300, big test ",10.1002/anie.201605547,CSD,,,,"H, C, O, U",,pyrene MOF
+UZUTAL,Ag2L2(OTf)2,10.1021/ic102441b,CSD,,,,"H, C, O, F, P, S, Ag",,pyrene MOF
+VUQLEA,[{Zn2(TBAPy)(H2O)2}·3.5DEF]n,10.1039/C5CC07808C,CSD,,H2O,,"H, C, O, Zn",,pyrene MOF
+VUWSEN,LMOF-1,10.1039/c5ta03361f,CSD,,,,"H, C, O, Zr",,pyrene MOF
+WAWKUD,JUC-138,10.1021/acs.cgd.6b01864,CSD,,,,"H, C, O, In",,pyrene MOF
+WOBQEL,ROD-6,10.1039/C3CC49684H,CSD,,H2O,,"H, C, O, Mn",,pyrene MOF
+XIXCOZ,SION-8,10.1002/chem.201805073,CSD,,H2O,,"H, C, O, Ca",,pyrene MOF
+XOKQUL,UTSA-72,10.1021/cg500235j,CSD,,DMF,,"H, C, N, O, Zn",,pyrene MOF
+YEYBOV,CALF-25,10.1021/ja306812r,CSD,,H2O,,"H, C, O, P, Ba",,pyrene MOF
+YOKZEG,3D bioMOF,10.1002/ejic.201900551,CSD,,,,"H, C, N, O, Zn",,pyrene MOF
+YOKZIK,3D bioMOF,10.1002/ejic.201900551,CSD,,,,"H, C, N, O, Zn",,"pyrene MOF, duplicate?"
+ZEWPID,(CH3)2NH2]4[(UO2)4(TBAPy)3 - 2,10.1021/acs.inorgchem.8b00099,CSD,,,,"H, C, O, U",,pyrene MOF
+@AAAAAA,NU-901,acs.chemmater.0c00634,SI,,,,"H, C, O, Zr",,pyrene MOF
+@AAAAAB,AlPyr-MOF,10.1038/s41586-019-1798-7,SI,,,,"H, C, O, Al",,pyrene MOF
+@AAAAAC,Bi-TBAPy,10.1021/acs.jpcc.9b02709,SI,,,,"H, C, O, Bi",,pyrene MOF
+@AAAAAD,Fe-TBAPy,10.1039/c9ra03287h,SI,,,,"H, C, O, Fe",,pyrene MOF
+@AAAAAF,TDL-Mg,10.1021/acsami.0c01198,SI,,H2O,,"H, C, O, Mg",,pyrene MOF
+@AAAAAG,ACM-1,10.1002/anie.202000158,@AAAAAD,,,,"H, C, O, Ti",,pyrene MOF
