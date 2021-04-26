@@ -42,4 +42,16 @@ HAFTOZ,haftoz,10.1039/c1cc14594k,CORE,,,,,high performance for adsorption-driven
 RUVKAV,CuBDDC,10.1021/cg100046j,CORE,,,,,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
 XEBHOC,CuTCPPDA,10.1039/b505664k,CORE,,,,,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
 YUGLES,CuEBTC,10.1039/B917046D,CORE,,,,,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
+691978,DUT-4,10.1016/j.micromeso.2009.02.020,CSD,orthorhombic,,"H,C,O,Al",add H to OH and CH,computed structure
+691979,DUT-5,10.1016/j.micromeso.2009.02.020,CSD,orthorhombic,,"H,C,O,Al",add H to OH and CH,computed structure
+ROYJOG,CPM-33b,10.1021/ja512137t,CSD,hexagonal,,"H,C,N,O,Ni",add H to OH remove part occ,pore-space partition
+DAZMID,CAU-21-BPDC,10.1021/acs.inorgchem.7b00202,CSD,tetragonal,,"H,C,O,Al",add H to OH,molecular sieve (narrow-pore framework)
+GITTOT02,ZIF-67,10.1021/jacs.5b06730,CSD,cubic,,"H,C,N,O,Co",remove part occupancy at CH3,analogue of ZIF-8
+QIWFIN01,UTSA-280,10.1038/s41563-018-0206-2,CSD,tetragonal,,"H,C,O,Ca",keep coordinated water,efficient separation of C2H4 and C2H6
+FAHGUU,CPM-80-Zn,10.1002/smll.202003167,CSD,trigonal,,"H,C,O,N,Zn,S",add H at OH,8-connected metal trimers
+FAHHAB,CPM-80-Co,10.1002/smll.202003167,CSD,trigonal,,"H,C,O,N,Co,S",add H at OH,8-connected metal trimers
+FAHHEF,CPM-80-Fe,10.1002/smll.202003167,CSD,trigonal,,"H,C,O,N,Fe,S",add H at OH,8-connected metal trimers
+FAHHIJ,CPM-81-Zn,10.1002/smll.202003167,CSD,trigonal,,"H,C,O,N,Zn",add H at OH,8-connected metal trimers
+FAHHOP,CPM-81-Co,10.1002/smll.202003167,CSD,trigonal,,"H,C,O,N,Co",add H at OH,8-connected metal trimers
+FAHHUV,CPM-82-Zn,10.1002/smll.202003167,CSD.trigonal,,"H,C,O,N,Zn,S",add H at OH,8-connected metal trimers
 
