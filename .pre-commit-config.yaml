@@ -1,0 +1,30 @@
+repos:
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v3.4.0
+  hooks:
+  - id: double-quote-string-fixer
+  - id: end-of-file-fixer
+  - id: mixed-line-ending
+  # this would affect all CIF files, changing their hashkeys
+  # - id: trailing-whitespace
+
+- repo: local
+  hooks:
+  - id: csv-unique-names
+    name: Check that CURATED-MOF names are unique
+    entry: python ./.github/validate.py unique-mof-names
+    language: system
+    pass_filenames: false
+    files: >-
+        (?x)^(
+            mof-frameworks.csv
+        )$
+  - id: overlapping-atoms
+    name: Check that there are no overlapping atoms.
+    entry: python ./.github/validate.py overlapping-atoms
+    language: system
+    pass_filenames: true
+    files: >-
+        (?x)^(
+            cifs/.*.cif
+        )$

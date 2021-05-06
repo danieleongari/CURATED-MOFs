@@ -53,5 +53,4 @@ FAHHAB,CPM-80-Co,10.1002/smll.202003167,CSD,trigonal,,"H,C,O,N,Co,S",add H at OH
 FAHHEF,CPM-80-Fe,10.1002/smll.202003167,CSD,trigonal,,"H,C,O,N,Fe,S",add H at OH,8-connected metal trimers
 FAHHIJ,CPM-81-Zn,10.1002/smll.202003167,CSD,trigonal,,"H,C,O,N,Zn",add H at OH,8-connected metal trimers
 FAHHOP,CPM-81-Co,10.1002/smll.202003167,CSD,trigonal,,"H,C,O,N,Co",add H at OH,8-connected metal trimers
-FAHHUV,CPM-82-Zn,10.1002/smll.202003167,CSD.trigonal,,"H,C,O,N,Zn,S",add H at OH,8-connected metal trimers
-
+FAHHUV,CPM-82-Zn,10.1002/smll.202003167,CSD,trigonal,,"H,C,O,N,Zn,S",add H at OH,8-connected metal trimers
