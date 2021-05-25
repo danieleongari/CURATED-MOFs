@@ -20,7 +20,7 @@ repos:
             mof-frameworks.csv
         )$
   - id: overlapping-atoms
-    name: Check that there are no overlapping atoms.
+    name: Fix overlapping atoms
     entry: python ./.github/validate.py overlapping-atoms
     language: system
     pass_filenames: true

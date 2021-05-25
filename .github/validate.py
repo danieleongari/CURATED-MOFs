@@ -6,8 +6,9 @@ import sys
 import pandas
 import click
 import collections
+import warnings
 
-from ase import io, geometry
+from pymatgen.io.cif import CifParser
 
 SCRIPT_PATH = os.path.split(os.path.realpath(__file__))[0]
 ROOT_DIR = os.path.join(SCRIPT_PATH, os.pardir)
@@ -35,27 +36,31 @@ def validate_unique_mof_names():
 
     print('No duplicate CURATED-MOF names found.')
 
-
 @cli.command('overlapping-atoms')
 @click.argument('cifs', type=str, nargs=-1)
 def overlapping_atoms(cifs):
-    """Check that there are no overlapping atoms."""
-    messages = []
-
-    for cif in cifs:
-        try:
-            atoms = io.read(cif)
-        except Exception as exc:
-            raise ValueError(f'Unable to parse file {cif}') from exc
-        overlaps = geometry.get_duplicate_atoms(atoms, cutoff=0.1)
-        if len(overlaps) != 0:
-            messages.append(f'Overlapping atoms detected in {cif}')
+    """Fix overlapping atoms.
     
-    if messages:
-       print(messages)
-       sys.exit(1)
+    If overlapping atoms are detected, try removing them via pymatgen.
+    """
+    errors = []
 
-    print('No overlapping atoms found.')
+    # catch pymatgen warnings for overlapping atoms
+    with warnings.catch_warnings():
+        warnings.simplefilter('ignore')
+        for cif in cifs:
+            try:
+                s = CifParser(cif).get_structures(primitive=True)[0]
+            except ValueError as exc:
+                s = CifParser(cif, occupancy_tolerance=1000).get_structures(primitive=True)[0]
+                s.to(filename=cif)
+                print(f'Fixed overlapping atoms in {cif}')
+            except Exception as exc:
+                errors.append(f'Unable to parse file {cif}')
+    
+    if errors:
+       print(errors)
+       sys.exit(1)
 
 
 if __name__ == '__main__':
