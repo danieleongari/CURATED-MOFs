@@ -40,8 +40,8 @@ HAFTOZ,haftoz,10.1039/c1cc14594k,CoRE,,,,,,high performance for adsorption-drive
 RUVKAV,CuBDDC,10.1021/cg100046j,CoRE,,,,,,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
 XEBHOC,CuTCPPDA,10.1039/b505664k,CoRE,,,,,,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
 YUGLES,CuEBTC,10.1039/B917046D,CoRE,,,,,,high performance for adsorption-driven chiller by screening (10.1021/acsami.8b09343)
-691978,DUT-4,10.1016/j.micromeso.2009.02.020,CSD,,orthorhombic,,"H,C,O,Al",add H to OH and CH,computed structure
-691979,DUT-5,10.1016/j.micromeso.2009.02.020,CSD,"mc-dresden",orthorhombic,,"H,C,O,Al",add H to OH and CH,computed structure
+691978,DUT-4,10.1016/j.micromeso.2009.02.020,CSD,,orthorhombic,,"H,C,O,Al",add H to OH and CH,computed structure thus using deposition number (no CSD refcode)
+691979,DUT-5,10.1016/j.micromeso.2009.02.020,CSD,"mc-dresden",orthorhombic,,"H,C,O,Al",add H to OH and CH,computed structure thus using deposition number (no CSD refcode)
 ROYJOG,CPM-33b,10.1021/ja512137t,CSD,,hexagonal,,"H,C,N,O,Ni",add H to OH remove part occ,pore-space partition
 DAZMID,CAU-21-BPDC,10.1021/acs.inorgchem.7b00202,CSD,,tetragonal,,"H,C,O,Al",add H to OH,molecular sieve (narrow-pore framework)
 QIWFIN01,UTSA-280,10.1038/s41563-018-0206-2,CSD,"novomof",tetragonal,,"H,C,O,Ca",keep coordinated water,efficient separation of C2H4 and C2H6
