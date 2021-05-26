@@ -2,3 +2,4 @@ pandas~=1.0
 click~=7.1
 pre-commit~=2.5
 pymatgen~=2021.1
+mofchecker~=0.7.1

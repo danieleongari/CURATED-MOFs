@@ -71,8 +71,6 @@ VELVIS,ZIF-7,10.1073/pnas.0602439103,Raspa,"moftechnologies",trigonal,,"H,C,N,Zn
 VELVOY,ZIF-8,10.1073/pnas.0602439103,Raspa,"sigma,strem,mc-dresden,moftechnologies",cubic,BASF BASOLITE Z1200,"H,C,N,Zn",,first synthesis in 2006
 VEJZEQ,ZIF-9,10.1073/pnas.0602439103,Raspa,,trigonal,,"H,C,N,Zn",,first synthesis in 2006
 VEJZIU,ZIF-10,10.1073/pnas.0602439103,Raspa,,tetragonal,,"H,C,N,Zn",,first synthesis in 2006
-VEJZOA,ZIF-11,10.1073/pnas.0602439103,Raspa,,triclinic,,"H,C,N,Zn","removed random disorder,optimized with UFF",first synthesis in 2006
-VEJZUG,ZIF-12,10.1073/pnas.0602439103,Raspa,,triclinic,,"H,C,N,Zn","removed random disorder, optimized with UFF",first synthesis in 2006
 GITTOT02,ZIF-67,10.1021/jacs.5b06730,CSD,"moftechnologies",cubic,,"H,C,N,O,Co",remove part occupancy at CH3,analogue of ZIF-8
 RUPRUQ_NH2,MIL-125-NH2,10.1021/ja903726m,dft-opt,"strem,framergy",tetragonal_ab,,"H,C,O,N,Ti","NH2 added",
 DIDBIE,HHU-1,10.1002/chem.201802838,CSD,"moftechnologies,profmof",cubic,"Zr-Fumarate,UiO-66-ADC","C,O,Zr","Removed waters",

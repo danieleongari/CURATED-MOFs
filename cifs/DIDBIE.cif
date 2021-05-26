@@ -1,330 +1,88 @@
-####################################################################### 
-# 
-# This file contains crystal structure data downloaded from the 
-# Cambridge Structural Database (CSD) hosted by the Cambridge 
-# Crystallographic Data Centre (CCDC).
-# 
-# Full information about CCDC data access policies and citation 
-# guidelines are available at http://www.ccdc.cam.ac.uk/access/V1 
-# 
-# Audit and citation data items may have been added by the CCDC. 
-# Please retain this information to preserve the provenance of 
-# this file and to allow appropriate attribution of the data. 
-# 
-#######################################################################
-
-data_ZrADC
-_audit_block_doi                 10.5517/ccdc.csd.cc1zgwbn
-_database_code_depnum_ccdc_archive 'CCDC 1831552'
+# generated using pymatgen
+data_Zr3(C3O4)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.67415366
+_cell_length_b   12.67415366
+_cell_length_c   12.67415366
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zr3(C3O4)4
+_chemical_formula_sum   'Zr6 C24 O32'
+_cell_volume   1439.60022818
+_cell_formula_units_Z   2
 loop_
-_citation_id
-_citation_doi
-_citation_year
-1 10.1002/chem.201802838 2018
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
 loop_
-_audit_author_name
-_audit_author_address
-'Helge Reinsch' 'CAU Kiel'
-_audit_update_record             
-;
-2018-03-21 deposited with the CCDC.	2021-05-26 downloaded from the CCDC.
-;
-_chemical_name_mineral           UiO-66-ADC
-_chemical_formula_sum            'C57.60 O188.23 Zr24'
-_chemical_formula_weight         5892.77
-_cell_length_a                   17.92396(34)
-_cell_length_b                   17.92396(34)
-_cell_length_c                   17.92396(34)
-_cell_angle_alpha                90
-_cell_angle_beta                 90
-_cell_angle_gamma                90
-_cell_volume                     5758.40(33)
-_cell_formula_units_Z            1
-_symmetry_cell_setting           cubic
-_symmetry_space_group_name_H-M   'F m -3 m'
-_symmetry_Int_Tables_number      225
-_space_group_name_Hall           '-F 4 2 3'
-loop_
-_symmetry_equiv_pos_as_xyz
-'-x, -y, -z'
-'-x, -y, z'
-'-x, -z, -y'
-'-x, -z, y'
-'-x, z, -y'
-'-x, z, y'
-'-x, y, -z'
-'-x, y, z'
-'-y, -x, -z'
-'-y, -x, z'
-'-y, -z, -x'
-'-y, -z, x'
-'-y, z, -x'
-'-y, z, x'
-'-y, x, -z'
-'-y, x, z'
-'-z, -x, -y'
-'-z, -x, y'
-'-z, -y, -x'
-'-z, -y, x'
-'-z, y, -x'
-'-z, y, x'
-'-z, x, -y'
-'-z, x, y'
-'z, -x, -y'
-'z, -x, y'
-'z, -y, -x'
-'z, -y, x'
-'z, y, -x'
-'z, y, x'
-'z, x, -y'
-'z, x, y'
-'y, -x, -z'
-'y, -x, z'
-'y, -z, -x'
-'y, -z, x'
-'y, z, -x'
-'y, z, x'
-'y, x, -z'
-'y, x, z'
-'x, -y, -z'
-'x, -y, z'
-'x, -z, -y'
-'x, -z, y'
-'x, z, -y'
-'x, z, y'
-'x, y, -z'
-'x, y, z'
-'-x+1/2, -y+1/2, -z'
-'-x+1/2, -y+1/2, z'
-'-x+1/2, -z+1/2, -y'
-'-x+1/2, -z+1/2, y'
-'-x+1/2, z+1/2, -y'
-'-x+1/2, z+1/2, y'
-'-x+1/2, y+1/2, -z'
-'-x+1/2, y+1/2, z'
-'-y+1/2, -x+1/2, -z'
-'-y+1/2, -x+1/2, z'
-'-y+1/2, -z+1/2, -x'
-'-y+1/2, -z+1/2, x'
-'-y+1/2, z+1/2, -x'
-'-y+1/2, z+1/2, x'
-'-y+1/2, x+1/2, -z'
-'-y+1/2, x+1/2, z'
-'-z+1/2, -x+1/2, -y'
-'-z+1/2, -x+1/2, y'
-'-z+1/2, -y+1/2, -x'
-'-z+1/2, -y+1/2, x'
-'-z+1/2, y+1/2, -x'
-'-z+1/2, y+1/2, x'
-'-z+1/2, x+1/2, -y'
-'-z+1/2, x+1/2, y'
-'z+1/2, -x+1/2, -y'
-'z+1/2, -x+1/2, y'
-'z+1/2, -y+1/2, -x'
-'z+1/2, -y+1/2, x'
-'z+1/2, y+1/2, -x'
-'z+1/2, y+1/2, x'
-'z+1/2, x+1/2, -y'
-'z+1/2, x+1/2, y'
-'y+1/2, -x+1/2, -z'
-'y+1/2, -x+1/2, z'
-'y+1/2, -z+1/2, -x'
-'y+1/2, -z+1/2, x'
-'y+1/2, z+1/2, -x'
-'y+1/2, z+1/2, x'
-'y+1/2, x+1/2, -z'
-'y+1/2, x+1/2, z'
-'x+1/2, -y+1/2, -z'
-'x+1/2, -y+1/2, z'
-'x+1/2, -z+1/2, -y'
-'x+1/2, -z+1/2, y'
-'x+1/2, z+1/2, -y'
-'x+1/2, z+1/2, y'
-'x+1/2, y+1/2, -z'
-'x+1/2, y+1/2, z'
-'-x+1/2, -y, -z+1/2'
-'-x+1/2, -y, z+1/2'
-'-x+1/2, -z, -y+1/2'
-'-x+1/2, -z, y+1/2'
-'-x+1/2, z, -y+1/2'
-'-x+1/2, z, y+1/2'
-'-x+1/2, y, -z+1/2'
-'-x+1/2, y, z+1/2'
-'-y+1/2, -x, -z+1/2'
-'-y+1/2, -x, z+1/2'
-'-y+1/2, -z, -x+1/2'
-'-y+1/2, -z, x+1/2'
-'-y+1/2, z, -x+1/2'
-'-y+1/2, z, x+1/2'
-'-y+1/2, x, -z+1/2'
-'-y+1/2, x, z+1/2'
-'-z+1/2, -x, -y+1/2'
-'-z+1/2, -x, y+1/2'
-'-z+1/2, -y, -x+1/2'
-'-z+1/2, -y, x+1/2'
-'-z+1/2, y, -x+1/2'
-'-z+1/2, y, x+1/2'
-'-z+1/2, x, -y+1/2'
-'-z+1/2, x, y+1/2'
-'z+1/2, -x, -y+1/2'
-'z+1/2, -x, y+1/2'
-'z+1/2, -y, -x+1/2'
-'z+1/2, -y, x+1/2'
-'z+1/2, y, -x+1/2'
-'z+1/2, y, x+1/2'
-'z+1/2, x, -y+1/2'
-'z+1/2, x, y+1/2'
-'y+1/2, -x, -z+1/2'
-'y+1/2, -x, z+1/2'
-'y+1/2, -z, -x+1/2'
-'y+1/2, -z, x+1/2'
-'y+1/2, z, -x+1/2'
-'y+1/2, z, x+1/2'
-'y+1/2, x, -z+1/2'
-'y+1/2, x, z+1/2'
-'x+1/2, -y, -z+1/2'
-'x+1/2, -y, z+1/2'
-'x+1/2, -z, -y+1/2'
-'x+1/2, -z, y+1/2'
-'x+1/2, z, -y+1/2'
-'x+1/2, z, y+1/2'
-'x+1/2, y, -z+1/2'
-'x+1/2, y, z+1/2'
-'-x, -y+1/2, -z+1/2'
-'-x, -y+1/2, z+1/2'
-'-x, -z+1/2, -y+1/2'
-'-x, -z+1/2, y+1/2'
-'-x, z+1/2, -y+1/2'
-'-x, z+1/2, y+1/2'
-'-x, y+1/2, -z+1/2'
-'-x, y+1/2, z+1/2'
-'-y, -x+1/2, -z+1/2'
-'-y, -x+1/2, z+1/2'
-'-y, -z+1/2, -x+1/2'
-'-y, -z+1/2, x+1/2'
-'-y, z+1/2, -x+1/2'
-'-y, z+1/2, x+1/2'
-'-y, x+1/2, -z+1/2'
-'-y, x+1/2, z+1/2'
-'-z, -x+1/2, -y+1/2'
-'-z, -x+1/2, y+1/2'
-'-z, -y+1/2, -x+1/2'
-'-z, -y+1/2, x+1/2'
-'-z, y+1/2, -x+1/2'
-'-z, y+1/2, x+1/2'
-'-z, x+1/2, -y+1/2'
-'-z, x+1/2, y+1/2'
-'z, -x+1/2, -y+1/2'
-'z, -x+1/2, y+1/2'
-'z, -y+1/2, -x+1/2'
-'z, -y+1/2, x+1/2'
-'z, y+1/2, -x+1/2'
-'z, y+1/2, x+1/2'
-'z, x+1/2, -y+1/2'
-'z, x+1/2, y+1/2'
-'y, -x+1/2, -z+1/2'
-'y, -x+1/2, z+1/2'
-'y, -z+1/2, -x+1/2'
-'y, -z+1/2, x+1/2'
-'y, z+1/2, -x+1/2'
-'y, z+1/2, x+1/2'
-'y, x+1/2, -z+1/2'
-'y, x+1/2, z+1/2'
-'x, -y+1/2, -z+1/2'
-'x, -y+1/2, z+1/2'
-'x, -z+1/2, -y+1/2'
-'x, -z+1/2, y+1/2'
-'x, z+1/2, -y+1/2'
-'x, z+1/2, y+1/2'
-'x, y+1/2, -z+1/2'
-'x, y+1/2, z+1/2'
-loop_
-_atom_site_label
-_atom_site_type_symbol
-_atom_site_symmetry_multiplicity
-_atom_site_fract_x
-_atom_site_fract_y
-_atom_site_fract_z
-_atom_site_occupancy
-_atom_site_B_iso_or_equiv
-Zr1 Zr 24 0.36331(18) 0.5 0 1 4.79(12)
-O1 O 32 0.42850(47) 0.42850(47) 0.07150(47) 1 4.79(12)
-O2 O 96 0.30549(31) 0.39519(29) 0 1 4.79(12)
-C1 C 48 0.33138(47) 0.33138(47) 0 0.600(14) 4.79(12)
-C2 C 48 0.27347(60) 0.27347(60) 0 0.600(14) 4.79(12)
-G1 O 96 0.45006(87) 0.36776(73) 0.36776(73) 0.326(11) 1.00(98)
-G2 O 32 0.1870(18) 0.1870(18) 0.1870(18) 0.285(14) 1.00(98)
-G3 O 32 0.29746(85) 0.20254(85) 0.79746(85) 0.479(17) 1.00(98)
-G4 O 24 0.3235(39) 0.5 0.5 0.187(14) 1.00(98)
-
-_diffrn_ambient_temperature      298
-_diffrn_measurement_device_type  'STOE Stadi P Cu Ka1'
-_diffrn_radiation_wavelength     1.540598
-_refine_special_details          'Structure determined from PXRD data.'
-# start Validation Reply Form
-_vrf_EXPT005_ZrADC               
-;
-PROBLEM: _exptl_crystal_description is missing
-RESPONSE: Structure refined from PXRD data of microcrystalline sample.
-;
-_vrf_ATOM007_ZrADC               
-;
-PROBLEM: _atom_site_aniso_label is missing
-RESPONSE: Structure refined from PXRD data, not required.
-;
-_vrf_GEOM001_ZrADC               
-;
-PROBLEM: _geom_bond_atom_site_label_1 is missing
-RESPONSE: Structure refined from PXRD data, bonds not given.
-;
-_vrf_GEOM003_ZrADC               
-;
-PROBLEM: _geom_bond_distance is missing
-RESPONSE: Structure refined from PXRD data, bonds not given.
-;
-_vrf_GEOM006_ZrADC               
-;
-PROBLEM: _geom_angle_atom_site_label_2 is missing
-RESPONSE: Structure refined from PXRD data, bonds not given.
-;
-_vrf_GEOM007_ZrADC               
-;
-PROBLEM: _geom_angle_atom_site_label_3 is missing
-RESPONSE: Structure refined from PXRD data, bonds not given.
-;
-_vrf_PLAT029_ZrADC               
-;
-PROBLEM: _diffrn_measured_fraction_theta_full value Low .      0.000 Why?  
-RESPONSE: Structure refined from PXRD data, plot is given in the publication
-;
-_vrf_PLAT183_ZrADC               
-;
-PROBLEM: Missing _cell_measurement_reflns_used Value ....     Please Do ! 
-RESPONSE: Structure refined from PXRD data, cell not measured separately.
-;
-_vrf_PLAT184_ZrADC               
-;
-PROBLEM: Missing _cell_measurement_theta_min Value ......     Please Do ! 
-RESPONSE: Structure refined from PXRD data, cell not measured separately.
-;
-_vrf_PLAT185_ZrADC               
-;
-PROBLEM: Missing _cell_measurement_theta_max Value ......     Please Do ! 
-RESPONSE: Structure refined from PXRD data, cell not measured separately.
-;
-_vrf_PLAT197_ZrADC               
-;
-PROBLEM: Missing _cell_measurement_temperature Datum ....     Please Add  
-RESPONSE: Structure refined from PXRD data, cell not measured separately.
-;
-_vrf_PLAT880_ZrADC               
-;
-PROBLEM: N0 datum for _diffrn_reflns_number .............     Please Do ! 
-RESPONSE: Structure refined from PXRD data.
-;
-_vrf_PLAT881_ZrADC               
-;
-PROBLEM: No Datum for _diffrn_reflns_av_R_equivalents ...     Please Do ! 
-RESPONSE: Structure refined from PXRD data.
-;
-# end Validation Reply Form
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  C  C0  1  0.66276000  0.00000000  0.00000000  1.0
+  C  C1  1  0.00000000  0.66276000  0.00000000  1.0
+  C  C2  1  0.66276000  0.00000000  0.33724000  1.0
+  C  C3  1  0.00000000  0.66276000  0.33724000  1.0
+  C  C4  1  1.00000000  0.00000000  0.66276000  1.0
+  C  C5  1  0.66276000  0.33724000  0.00000000  1.0
+  C  C6  1  0.33724000  0.66276000  0.00000000  1.0
+  C  C7  1  1.00000000  0.00000000  0.33724000  1.0
+  C  C8  1  0.00000000  0.33724000  0.66276000  1.0
+  C  C9  1  0.33724000  0.00000000  0.66276000  1.0
+  C  C10  1  0.00000000  0.33724000  0.00000000  1.0
+  C  C11  1  0.33724000  0.00000000  0.00000000  1.0
+  C  C12  1  0.54694000  0.00000000  0.00000000  1.0
+  C  C13  1  0.00000000  0.54694000  0.00000000  1.0
+  C  C14  1  0.54694000  0.00000000  0.45306000  1.0
+  C  C15  1  0.00000000  0.54694000  0.45306000  1.0
+  C  C16  1  1.00000000  0.00000000  0.54694000  1.0
+  C  C17  1  0.54694000  0.45306000  0.00000000  1.0
+  C  C18  1  0.45306000  0.54694000  0.00000000  1.0
+  C  C19  1  1.00000000  0.00000000  0.45306000  1.0
+  C  C20  1  0.00000000  0.45306000  0.54694000  1.0
+  C  C21  1  0.45306000  0.00000000  0.54694000  1.0
+  C  C22  1  0.00000000  0.45306000  0.00000000  1.0
+  C  C23  1  0.45306000  0.00000000  0.00000000  1.0
+  O  O24  1  0.78550000  0.07150000  0.07150000  1.0
+  O  O25  1  0.92850000  0.92850000  0.92850000  1.0
+  O  O26  1  0.07150000  0.78550000  0.07150000  1.0
+  O  O27  1  0.92850000  0.92850000  0.21450000  1.0
+  O  O28  1  0.07150000  0.07150000  0.78550000  1.0
+  O  O29  1  0.92850000  0.21450000  0.92850000  1.0
+  O  O30  1  0.21450000  0.92850000  0.92850000  1.0
+  O  O31  1  0.07150000  0.07150000  0.07150000  1.0
+  O  O32  1  0.70068000  0.91030000  0.08970000  1.0
+  O  O33  1  0.91030000  0.70068000  0.08970000  1.0
+  O  O34  1  0.70068000  0.91030000  0.29932000  1.0
+  O  O35  1  0.91030000  0.70068000  0.29932000  1.0
+  O  O36  1  0.70068000  0.08970000  0.91030000  1.0
+  O  O37  1  0.08970000  0.70068000  0.91030000  1.0
+  O  O38  1  0.70068000  0.08970000  0.29932000  1.0
+  O  O39  1  0.08970000  0.70068000  0.29932000  1.0
+  O  O40  1  0.91030000  0.08970000  0.70068000  1.0
+  O  O41  1  0.70068000  0.29932000  0.91030000  1.0
+  O  O42  1  0.08970000  0.91030000  0.70068000  1.0
+  O  O43  1  0.70068000  0.29932000  0.08970000  1.0
+  O  O44  1  0.29932000  0.70068000  0.91030000  1.0
+  O  O45  1  0.91030000  0.08970000  0.29932000  1.0
+  O  O46  1  0.29932000  0.70068000  0.08970000  1.0
+  O  O47  1  0.08970000  0.91030000  0.29932000  1.0
+  O  O48  1  0.91030000  0.29932000  0.70068000  1.0
+  O  O49  1  0.29932000  0.91030000  0.70068000  1.0
+  O  O50  1  0.91030000  0.29932000  0.08970000  1.0
+  O  O51  1  0.29932000  0.91030000  0.08970000  1.0
+  O  O52  1  0.08970000  0.29932000  0.70068000  1.0
+  O  O53  1  0.29932000  0.08970000  0.70068000  1.0
+  O  O54  1  0.08970000  0.29932000  0.91030000  1.0
+  O  O55  1  0.29932000  0.08970000  0.91030000  1.0
+  Zr  Zr56  1  0.86331000  0.86331000  0.13669000  1.0
+  Zr  Zr57  1  0.86331000  0.13669000  0.86331000  1.0
+  Zr  Zr58  1  0.13669000  0.86331000  0.86331000  1.0
+  Zr  Zr59  1  0.86331000  0.13669000  0.13669000  1.0
+  Zr  Zr60  1  0.13669000  0.86331000  0.13669000  1.0
+  Zr  Zr61  1  0.13669000  0.13669000  0.86331000  1.0
