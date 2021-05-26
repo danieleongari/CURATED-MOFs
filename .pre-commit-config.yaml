@@ -19,6 +19,16 @@ repos:
         (?x)^(
             mof-frameworks.csv
         )$
+  - id: matching-cif-files
+    name: Check that each MOF has a matching CIF file
+    entry: python ./.github/validate.py matching-cif-files
+    language: system
+    pass_filenames: false
+    files: >-
+        (?x)^(
+            mof-frameworks.csv
+        )$
+
   - id: overlapping-atoms
     name: Fix overlapping atoms
     entry: python ./.github/validate.py overlapping-atoms
