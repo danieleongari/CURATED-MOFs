@@ -55,7 +55,7 @@ NAXVOY,Beta-Mg-Formate,10.1002/zaac.200500202,CSD,,orthorhombic,Mg-Formate,"H,C,
 NAXVOY01,Alpha-Mg-Formate,10.1021/ic060543v,CSD,,monoclinic,,"H,C,O,Mg",,"alpha phase, could make monoclinic_gamma_ab by rotation"
 CELZUQ,CAU-10-H,10.1021/cm3025445,CSD,"moftechnologies,strem,profmof",triclinic,,"H,C,O,Al","removed H2O molecules",
 RIPKEH,(CuI)4(DABCO)2,10.1039/b709852a,CSD,"strem",triclinic,,"H,C,N,I,Cu","removed DABCO disorder, added H",
-RIDCEN,MIL-127,10.1002/ange.200604306,CoRE,"moftechnologies,framergy",triclinic,,"H,C,N,O,In",,charged
+RIDCEN,MIL-127,10.1002/ange.200604306,CoRE,"moftechnologies,framergy",triclinic,,"H,C,N,O,In","added H2 to waters,removed half of the NO3- ions",noted as charged in CoRE
 YUZBOM,MAF-49,10.1038/ncomms9697,CSD,"novomof",trigonal,,"H,C,N,Zn",,
 CIGXIA,MIL-100(Fe),10.1039/B704325B,CoRe,"framergy,strem",triclinic,,"H,C,O,Fe","denoted as 'manual' in CoRE-MOF",
 SUKXUS01,DUT-6,10.1002/anie.200904599,CSD,"mc-dresden",cubic,MOF-205,"H,C,O,Zn","remove linker disorder",chose SUKXUS01 instead of SUKXUS because of better linker resolution
@@ -72,7 +72,7 @@ VELVOY,ZIF-8,10.1073/pnas.0602439103,Raspa,"sigma,strem,mc-dresden,moftechnologi
 VEJZEQ,ZIF-9,10.1073/pnas.0602439103,Raspa,,trigonal,,"H,C,N,Zn",,first synthesis in 2006
 VEJZIU,ZIF-10,10.1073/pnas.0602439103,Raspa,,tetragonal,,"H,C,N,Zn",,first synthesis in 2006
 GITTOT02,ZIF-67,10.1021/jacs.5b06730,CSD,"moftechnologies",cubic,,"H,C,N,O,Co",remove part occupancy at CH3,analogue of ZIF-8
-RUPRUQ_NH2,MIL-125-NH2,10.1021/ja903726m,dft-opt,"strem,framergy",tetragonal_ab,,"H,C,O,N,Ti","NH2 added",
+RUPRUQ-NH2,MIL-125-NH2,10.1021/ja903726m,dft-opt,"strem,framergy",tetragonal_ab,,"H,C,O,N,Ti","100% NH2 added",
 DIDBIE,HHU-1,10.1002/chem.201802838,CSD,"moftechnologies,profmof",cubic,"Zr-Fumarate,UiO-66-ADC","C,O,Zr","Removed waters",
-RUBTAK_NH2,UIO-66-NH2,10.1002/anie.201505461,CoRE,"strem,profmof",rhombohedral,,"H,C,O,N,Zr",added NH2,"started from RUBTAK, for exp see SURKAT"
+RUBTAK-NH2,UIO-66-NH2,10.1002/anie.201505461,CoRE,"strem,profmof",rhombohedral,,"H,C,O,N,Zr","100% NH2 added","started from RUBTAK, for exp see SURKAT"
 WIZMAV,UIO-67,10.1039/C3QI00093A,CSD,"strem,profmof",cubic,"UIO-66-BPDC,UIO-66-BiPy","H,C,O,Zr",,"original synthesis in 10.1021/ja8057953 but no CIF"
