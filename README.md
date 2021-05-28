@@ -21,4 +21,4 @@ Note that if your cubic mof contains <300 atoms, you may want to use it as the m
 
 ## Tips:
 * check in the CoRE-MOF first if the desolvated/P1/symmetry-reduced structure is already present
-* follow the cell symmetry list of [CP2K](https://manual.cp2k.org/trunk/CP2K_INPUT/FORCE_EVAL/SUBSYS/CELL.html)
+* for the "symmetry" column, follow the cell symmetry list of [CP2K](https://manual.cp2k.org/trunk/CP2K_INPUT/FORCE_EVAL/SUBSYS/CELL.html#SYMMETRY)
